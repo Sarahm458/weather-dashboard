@@ -1,3 +1,47 @@
+# Financial Portfolio Management System
+
+## Description:
+Weather Dashboard application that fetches and displays weather data for various locations. This project will focus on core functionalities such as form handling, input validation, routing, styling, data persistence,all implemented using class components.
+
+
+## Table of Contents
+- Installation
+- Functionalities
+- Contributing
+
+## Installation
+To set up the project locally, follow these steps:
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/your-username/weather-dashboard.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd weather-dashboard
+    ```
+3. Install dependencies:
+    ```sh
+    npm install
+    ```
+4. Start the development server:
+    ```sh
+    npm start
+    ```
+
+## Functionalities
+1. userscan input a city name and the corresponding weather data from an external weather API is fetched
+2. Saved Search History
+
+## Contributing
+Guidelines for contributing to the project:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a pull request.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
