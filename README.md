@@ -1,4 +1,4 @@
-# Financial Portfolio Management System
+# Weather Dashboard Application
 
 ## Description:
 Weather Dashboard application that fetches and displays weather data for various locations. This project will focus on core functionalities such as form handling, input validation, routing, styling, data persistence,all implemented using class components.
